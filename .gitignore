@@ -1,0 +1,8 @@
+#vscode file
+.vscode
+#test file
+app2
+#nohup.out
+nohup.out
+#
+node_modules
