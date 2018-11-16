@@ -1,0 +1,59 @@
+[34mℹ[39m [90m｢wds｣[39m: Project is running at [1m[34mhttp://localhost:8081/[39m[22m
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from [1m[34m/[39m[22m
+[33m⚠[39m [90m｢wdm｣[39m: Hash: [1mdf8e52b5ad88d0d10a1d[39m[22m
+Version: webpack [1m4.20.2[39m[22m
+Time: [1m3322[39m[22mms
+Built at: 2018/10/15 [1m下午5:40:06[39m[22m
+    [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m           [1m[39m[22m[1mChunk Names[39m[22m
+[1m[32mbundle.js[39m[22m  240 KiB       [1m0[39m[22m  [1m[32m[emitted][39m[22m  main
+Entrypoint [1mmain[39m[22m = [1m[32mbundle.js[39m[22m
+ [0] [1m./node_modules/react/index.js[39m[22m 190 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+ [4] [1m./node_modules/react-dom/index.js[39m[22m 1.33 KiB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+ [5] [1mmulti (webpack)-dev-server/client?http://localhost:8081 ./index.js ./app.jsx[39m[22m 52 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+ [6] [1m(webpack)-dev-server/client?http://localhost:8081[39m[22m 7.78 KiB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+ [7] [1m./node_modules/url/url.js[39m[22m 22.8 KiB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[14] [1m./node_modules/strip-ansi/index.js[39m[22m 161 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[16] [1m./node_modules/loglevel/lib/loglevel.js[39m[22m 7.68 KiB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[17] [1m(webpack)-dev-server/client/socket.js[39m[22m 1.05 KiB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[19] [1m(webpack)-dev-server/client/overlay.js[39m[22m 3.58 KiB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[21] [1m./node_modules/html-entities/index.js[39m[22m 231 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[24] [1m(webpack)/hot sync nonrecursive ^\.\/log$[39m[22m 170 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[26] [1m(webpack)/hot/emitter.js[39m[22m 77 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[28] [1m./index.js[39m[22m 57 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[29] [1m./app.jsx[39m[22m 242 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[31] [1m./node_modules/react-dom/cjs/react-dom.production.min.js[39m[22m 92.2 KiB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+    + 19 hidden modules
+
+[1m[33mWARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode' option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/concepts/mode/[39m[22m
+[34mℹ[39m [90m｢wdm｣[39m: Compiled with warnings.
+[34mℹ[39m [90m｢wdm｣[39m: Compiling...
+[33m⚠[39m [90m｢wdm｣[39m: Hash: [1m02156cf08985b02bf478[39m[22m
+Version: webpack [1m4.20.2[39m[22m
+Time: [1m3273[39m[22mms
+Built at: 2018/10/15 [1m下午5:40:45[39m[22m
+    [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m           [1m[39m[22m[1mChunk Names[39m[22m
+[1m[32mbundle.js[39m[22m  240 KiB       [1m0[39m[22m  [1m[32m[emitted][39m[22m  main
+Entrypoint [1mmain[39m[22m = [1m[32mbundle.js[39m[22m
+ [0] [1m./node_modules/react/index.js[39m[22m 190 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+ [4] [1m./node_modules/react-dom/index.js[39m[22m 1.33 KiB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+ [5] [1mmulti (webpack)-dev-server/client?http://localhost:8081 ./index.js ./app.jsx[39m[22m 52 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+ [6] [1m(webpack)-dev-server/client?http://localhost:8081[39m[22m 7.78 KiB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+ [7] [1m./node_modules/url/url.js[39m[22m 22.8 KiB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[14] [1m./node_modules/strip-ansi/index.js[39m[22m 161 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[16] [1m./node_modules/loglevel/lib/loglevel.js[39m[22m 7.68 KiB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[17] [1m(webpack)-dev-server/client/socket.js[39m[22m 1.05 KiB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[19] [1m(webpack)-dev-server/client/overlay.js[39m[22m 3.58 KiB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[21] [1m./node_modules/html-entities/index.js[39m[22m 231 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[24] [1m(webpack)/hot sync nonrecursive ^\.\/log$[39m[22m 170 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[26] [1m(webpack)/hot/emitter.js[39m[22m 77 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[28] [1m./index.js[39m[22m 57 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[29] [1m./app.jsx[39m[22m 236 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+[31] [1m./node_modules/react-dom/cjs/react-dom.production.min.js[39m[22m 92.2 KiB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+    + 19 hidden modules
+
+[1m[33mWARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode' option to 'development' or 'production' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/concepts/mode/[39m[22m
+[34mℹ[39m [90m｢wdm｣[39m: Compiled with warnings.
